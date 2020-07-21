@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	display: table;
+	width: 100%;
+    margin:auto;
+    background-size: contain;
+}
+
+body{
+    background-image: url(image/bgimage.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    vertical-align: middle;
+    margin: 0px;
+    
+}
+
+h1{
+    font-size: 60px;
+    color: greenyellow;
+    margin: 10px;
+}
+h3{
+    font-size: 30px;
+    color: rgb(0, 255, 85);
+    margin-top: 0px;
+}
+
+.topTitle{
+    text-align: center;
+}
+
+.topTitle img{
+    width: 100%;
+    height: auto;
+    
+
+}
+
+.text1{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.plasticPara{
+    margin-top: 75px;
+}
+
+.plasticPara img{
+    padding-left: 50px;
+    padding-right:20px ;
+    max-width: 400px;
+    height: auto;
+    float: left;
+    
+}
+
+.plasticPara p{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding-right: 50px;
+
+}
+
+
+.contactInfo{
+    color: white;
+    padding-left: 50px;
+}
+
+.person1{
+    width: 300px;
+    height: auto;
+    margin-bottom: -10px;
+}
+
+.persona{
+    color: white;
+    padding-left: 50px ;
+    padding-right: 100px;
+    max-width: 500px;
+}
+
+h5{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+h2{
+    color: white;
+    padding-left: 50px;
+}
+
+.learnDiv{
+    background-color: rgb(54, 54, 54);
+    padding-top: 20px;
+}
+
+.learnText{
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    
+}
+
+.learnDiv img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 50px;
+
+}
